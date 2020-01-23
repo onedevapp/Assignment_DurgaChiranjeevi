@@ -1,0 +1,13 @@
+{
+	"collectables" : 
+		[
+			{
+				"color" : "red",
+				"point" : 20
+			},
+			{
+				"color" : "blue",
+				"point" : 30
+			}	
+		]
+}
